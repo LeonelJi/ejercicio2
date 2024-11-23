@@ -14,6 +14,6 @@ import java.util.ArrayList;
 public class ARRAYLIST {
 
     public static void main(String[] args) {
-        ArrayList<estudiante> estu= new estudiante;
+        ArrayList<estudiante> estu=  estudiante;
     }
 }
